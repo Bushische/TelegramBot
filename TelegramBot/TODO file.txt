@@ -1,0 +1,5 @@
+﻿To do:
+1. Add database (SQLite) to store user states
+2. Use Entity Frameworks to work with DB
+3. Add Weather command
+4. 
